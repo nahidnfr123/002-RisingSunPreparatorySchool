@@ -1,0 +1,85 @@
+#Profile_link{
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all ease-in-out 200ms;
+    -webkit-transition: all ease-in-out 200ms;
+    -moz-transition: all ease-in-out 200ms;
+    -o-transition: all ease-in-out 200ms;
+}
+#Profile_link:hover,
+#Profile_link.clicked{
+    background-color: #3f474e;
+}
+
+#Profile_Menu{
+    background-color: #44474b;
+    border-radius: 4px;
+    color: #000b16;
+    /*position: absolute;
+    top: 40px;
+    left: 0;*/
+    width: 160px;
+    z-index: 9999;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .8);
+    height: 0;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    transition: all ease-in-out 200ms;
+    -webkit-transition: all ease-in-out 200ms;
+    -moz-transition: all ease-in-out 200ms;
+    -o-transition: all ease-in-out 200ms;
+}
+
+#Profile_Menu.show{
+    height: auto;
+    margin: 10px auto 0 auto;
+    padding: 16px 10px;
+}
+
+#Profile_Menu > ul{
+    margin: 0;
+    padding: 0;
+}
+
+#Profile_Menu > ul > li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+#Profile_Menu > ul > li > a{
+    color: white;
+    margin: 0;
+    padding: 2px 0 0 0;
+    display: block;
+    text-align: left;
+    transition: all ease-in-out 400ms;
+    -webkit-transition: all ease-in-out 400ms;
+    -moz-transition: all ease-in-out 400ms;
+    -o-transition: all ease-in-out 400ms;
+}
+
+#Profile_Menu > ul > li > a:hover {
+    color: #000;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    border-radius: 4px;
+}
+#Profile_Menu > ul > li > a > i{
+    text-align: left!important;
+    padding-right: 20px;
+    padding-left: 15px;
+    font-size: 20px!important;
+}
+.activeMe{
+    background-color: #00aced;
+    color: white!important;
+}
+.activeMe a{
+    color: white!important;
+    font-weight: bold;
+}

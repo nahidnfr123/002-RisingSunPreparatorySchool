@@ -1,0 +1,30 @@
+[11-Feb-2020 00:12:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'ContactDetails' not found in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php:37
+Stack trace:
+#0 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(164): Illuminate\Routing\RouteFileRegistrar->{closure}(Object(Illuminate\View\View))
+#1 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(344): Illuminate\View\Factory->Illuminate\View\Concerns\{closure}('composing: erro...', Array)
+#2 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(196): Illuminate\Events\Dispatcher->Illuminate\Events\{closure}('composing: erro...', Array)
+#3 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(179): Illuminate\Events\Dispatcher->dispatc in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php on line 37
+[11-Feb-2020 00:12:38 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'ContactDetails' not found in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php:37
+Stack trace:
+#0 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(164): Illuminate\Routing\RouteFileRegistrar->{closure}(Object(Illuminate\View\View))
+#1 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(344): Illuminate\View\Factory->Illuminate\View\Concerns\{closure}('composing: erro...', Array)
+#2 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(196): Illuminate\Events\Dispatcher->Illuminate\Events\{closure}('composing: erro...', Array)
+#3 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(179): Illuminate\Events\Dispatcher->dispatc in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php on line 37
+[11-Feb-2020 00:13:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'ContactDetails' not found in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php:37
+Stack trace:
+#0 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(164): Illuminate\Routing\RouteFileRegistrar->{closure}(Object(Illuminate\View\View))
+#1 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(344): Illuminate\View\Factory->Illuminate\View\Concerns\{closure}('composing: erro...', Array)
+#2 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(196): Illuminate\Events\Dispatcher->Illuminate\Events\{closure}('composing: erro...', Array)
+#3 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(179): Illuminate\Events\Dispatcher->dispatc in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php on line 37
+[11-Feb-2020 00:14:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'ContactDetails' not found in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php:37
+Stack trace:
+#0 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(164): Illuminate\Routing\RouteFileRegistrar->{closure}(Object(Illuminate\View\View))
+#1 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(344): Illuminate\View\Factory->Illuminate\View\Concerns\{closure}('composing: erro...', Array)
+#2 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(196): Illuminate\Events\Dispatcher->Illuminate\Events\{closure}('composing: erro...', Array)
+#3 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(179): Illuminate\Events\Dispatcher->dispatc in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php on line 37
+[11-Feb-2020 00:14:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'ContactDetails' not found in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php:19
+Stack trace:
+#0 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(164): Illuminate\Routing\RouteFileRegistrar->{closure}(Object(Illuminate\View\View))
+#1 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(344): Illuminate\View\Factory->Illuminate\View\Concerns\{closure}('composing: erro...', Array)
+#2 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(196): Illuminate\Events\Dispatcher->Illuminate\Events\{closure}('composing: erro...', Array)
+#3 /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesEvents.php(179): Illuminate\Events\Dispatcher->dispatc in /home/nahiklzq/project002.nahidnfr.com/Rising_Sun_Preparatory_School/routes/web.php on line 19

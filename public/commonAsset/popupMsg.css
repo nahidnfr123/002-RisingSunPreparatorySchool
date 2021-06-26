@@ -1,0 +1,38 @@
+.ErrorMessage{
+    color: coral;
+}
+.SuccessMessage{
+    color: #0e84b5;
+}
+.popupMsgContainer{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+
+    z-index: 100000000;
+}
+.popupMsg{
+    height: auto;
+    width: 280px;
+    max-width: 300px;
+    background-color: white;
+    padding: 2px 10px;
+    border-radius: 6px;
+    box-shadow: 0 0 4px rgba(20, 20, 20,.4);
+}
+.popupMsg > .title{
+    text-align: left;
+    padding: 10px 2px 2px 2px;
+    margin: 0 0 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.popupMsg > .body{
+    text-align: left;
+    font-size: 12px;
+    padding: 0 2px 10px 2px;
+    font-weight: bold;
+}
+.PopCloseBtn{
+    cursor: pointer;
+}
